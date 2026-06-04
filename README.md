@@ -1,7 +1,7 @@
 # Casbah Clean
 ## Screenshots
 ![Main Menu](Screenshots/3.png)
-![Gameplay](3.png)
+![Gameplay](Screenshots/2.png)
 ![Recycling Level](Screenshots/6.png)
 ## Overview
 
