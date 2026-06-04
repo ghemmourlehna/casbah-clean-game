@@ -1,5 +1,8 @@
 # Casbah Clean
-
+## Screenshots
+![Main Menu](Screenshots/Capture décran 2026-06-05 000611.png)
+![Gameplay](Screenshots/Capture décran 2026-06-05 000656.png)
+![Recycling Level](Screenshots/Capture décran 2026-06-05 000803.png)
 ## Overview
 
 **Casbah Clean** is a 3D educational adventure game developed with Unity.
